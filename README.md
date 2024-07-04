@@ -21,6 +21,7 @@ I am a passionate and dedicated hospitality professional who recently graduated 
 I am particularly interested in AI and developing apps and websites that enhance people's quality of life and help the transition to the future. I am always open to learning and adapting to new challenges.
 
 ---
+
 ### 🗃️ Projects
 <!-- BEGIN Project -->
 [![project1](https://github.com/kzmaybe/demo-repo.git "1111111")]
@@ -28,7 +29,7 @@ I am particularly interested in AI and developing apps and websites that enhance
 <!-- END Project -->
 
 
-
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -53,7 +54,7 @@ I am particularly interested in AI and developing apps and websites that enhance
 <-->
 <br />
 
+---
 ### 📊 Contacts
 
-[Email]: 
-kzmaybe7@gmail.com
+[Email]: (kzmaybe7@gmail.com)
