@@ -24,7 +24,8 @@ I am particularly interested in AI and developing apps and websites that enhance
 
 ### 📁   Projects
 <!-- BEGIN Project -->
-[![project1](https://github.com/kzmaybe/demo-repo.git "1111111")]
+[![project1](https://github.com/kzmaybe/demo-repo.git "1")]
+[![project2](https://github.com/kzmaybe/demo-repo.git "2")]
 
 <!-- END Project -->
 
