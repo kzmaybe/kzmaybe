@@ -54,5 +54,5 @@ I am particularly interested in AI and developing apps and websites that enhance
 
 #
 
-### Linkedin
+### 💻 Linkedin
 https://www.linkedin.com/in/kevin-y-zhang-21623313b/
