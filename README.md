@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🏂 Kevin Y Zhang
+# 🏂 kzmaybe
 
 I am a passionate and dedicated hospitality professional who recently graduated with a Computer Science degree in Spring 2024. As I transition towards a dynamic career in software engineering, I am eager to apply my problem-solving skills, creativity, and commitment to excellence in a software development internship.
 
@@ -55,4 +55,5 @@ I am particularly interested in AI and developing apps and websites that enhance
 
 ### 📊 Contacts
 
-[Email]: kzmaybe7@gmail.com
+[Email]: 
+kzmaybe7@gmail.com
