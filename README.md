@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🏂 kzmaybe
+# 🏂   kzmaybe
 
 I am a passionate and dedicated hospitality professional who recently graduated with a Computer Science degree in Spring 2024. As I transition towards a dynamic career in software engineering, I am eager to apply my problem-solving skills, creativity, and commitment to excellence in a software development internship.
 
@@ -22,7 +22,7 @@ I am particularly interested in AI and developing apps and websites that enhance
 
 ---
 
-### 📁 Projects
+### 📁   Projects
 <!-- BEGIN Project -->
 [![project1](https://github.com/kzmaybe/demo-repo.git "1111111")]
 
@@ -31,7 +31,7 @@ I am particularly interested in AI and developing apps and websites that enhance
 
 #
 
-### 🧰 Languages and Tools
+### 🧰   Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -54,5 +54,5 @@ I am particularly interested in AI and developing apps and websites that enhance
 
 #
 
-### 💻 Linkedin
+### 💻   Linkedin
 https://www.linkedin.com/in/kevin-y-zhang-21623313b/
