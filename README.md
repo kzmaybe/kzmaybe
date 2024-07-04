@@ -22,7 +22,7 @@ I am particularly interested in AI and developing apps and websites that enhance
 
 ---
 
-### 🗃️ Projects
+### 📁 Projects
 <!-- BEGIN Project -->
 [![project1](https://github.com/kzmaybe/demo-repo.git "1111111")]
 
@@ -55,6 +55,6 @@ I am particularly interested in AI and developing apps and websites that enhance
 <br />
 
 ---
-### 📊 Contacts
 
-[Email]: (kzmaybe7@gmail.com)
+[linkedin]: https://www.linkedin.com/in/kevin-y-zhang-21623313b/
+
