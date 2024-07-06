@@ -24,7 +24,7 @@ I am particularly interested in AI and developing apps and websites that enhance
 
 ### 📁   Projects
 <!-- BEGIN Project -->
-# Project 1: Motivation Meme Website
+Project 1: Motivation Meme Website
 [![Motivation Meme Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://kzmaybe.github.io/Motivation-Meme-Website/)
 [![Motivation Meme Website Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Motivation-Meme-Website)
 
