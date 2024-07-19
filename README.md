@@ -22,9 +22,11 @@ I am particularly interested in travel and believe that it broadens horizons and
 
 I am currently working on two projects:
 
-1. PointsHack (website): A tutorial aims to educate people on the best travel credit card offers available and how to maximize their points. My motivation is to empower others to travel more affordably and wisely by utilizing credit card rewards.
+# 1. PointsHack (Website | App): 
+ A tutorial aims to educate people on the best travel credit card offers available and how to maximize their points. My motivation is to empower others to travel more affordably and wisely by utilizing credit card rewards. (Bookeeping your deals and points from all the credit card companies.)
 
-2. BookingHack (website and app): Finding the best flight and hotel deals can be overwhelming. This project helps users calculate the value of their points and find the best offers online. My goal is to simplify the process of searching for the best deals and ensure travelers get the most value out of their points.
+#2. BookingHack (Website | App | Chrome Extension):
+ A comprehensive booking platform designed to find and reserve the best flight and hotel deals using cash or points. This project assists users in calculating the value of their points and locating the best offers available online. My goal is to streamline the often time-consuming process of searching for deals, ensuring that all travelers, even those without points, can benefit from exceptional travel offers.
 
 ---
 
