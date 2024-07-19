@@ -40,7 +40,6 @@ I am currently working on two projects:
 
 <!-- END Project -->
 
-
 #
 
 ### 🧰   Languages and Tools
