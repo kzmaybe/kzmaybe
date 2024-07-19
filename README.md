@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 # 🏂   kzmaybe
-
+<p style="font-size: 20px;">
 I am a passionate and dedicated hospitality professional who recently graduated with a Computer Science degree in Spring 2024. As I transition towards a dynamic career in software engineering, I am eager to apply my problem-solving skills, creativity, and commitment to excellence in a software development internship.
 
 I am particularly interested in travel and believe that it broadens horizons and enriches lives. As a travel enthusiast, I have been learning the art of using credit card points to cover travel expenses and am eager to share my insights. I want to help others leverage the power of credit card points to make their travel dreams a reality.
 
 I am currently working on two projects:
-
+</p>
 ---
 
 ### 📁   Projects
