@@ -20,7 +20,7 @@ I am a passionate and dedicated hospitality professional who recently graduated 
 I am particularly interested in travel and believe that it broadens horizons and enriches lives. As a travel enthusiast, I have been learning the art of using credit card points to cover travel expenses and am eager to share my insights. I want to help others leverage the power of credit card points to make their travel dreams a reality.
 
 I am currently working on two projects:
-
+#
 
 # 📁  Projects
 
