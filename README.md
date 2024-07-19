@@ -34,7 +34,7 @@ I am currently working on two projects:
  A comprehensive booking platform designed to find and reserve the best flight and hotel deals using cash or points. This project assists users in calculating the value of their points and locating the best offers available online. My goal is to streamline the often time-consuming process of searching for deals, ensuring that all travelers, even those without points, can benefit from exceptional travel offers.
 
 
-(Project demo: Motivation Meme Website)
+# 3. (Project demo: Motivation Meme Website)
 [![Motivation Meme Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://kzmaybe.github.io/Motivation-Meme-Website/)
 [![Motivation Meme Website Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Motivation-Meme-Website)
 
