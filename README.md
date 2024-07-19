@@ -18,13 +18,32 @@ Here are some ideas to get you started:
 
 I am a passionate and dedicated hospitality professional who recently graduated with a Computer Science degree in Spring 2024. As I transition towards a dynamic career in software engineering, I am eager to apply my problem-solving skills, creativity, and commitment to excellence in a software development internship.
 
-I am particularly interested in AI and developing apps and websites that enhance people's quality of life and help the transition to the future. I am always open to learning and adapting to new challenges.
+I am particularly interested in travel and believe that it broadens horizons and enriches lives. As a travel enthusiast, I have been learning the art of using credit card points to cover travel expenses and am eager to share my insights. I want to help others leverage the power of credit card points to make their travel dreams a reality.
+
+I am currently working on two projects:
+
+    1. PointsHack (website): A tutorial aims to educate people on the best travel credit card offers available and how to maximize their points. My motivation is to empower others to travel more affordably and wisely by utilizing credit card rewards.
+
+    2. BookingHack (website and app): Finding the best flight and hotel deals can be overwhelming. This project helps users calculate the value of their points and find the best offers online. My goal is to simplify the process of searching for the best deals and ensure travelers get the most value out of their points.
 
 ---
 
 ### 📁   Projects
 <!-- BEGIN Project -->
-Project 1: Motivation Meme Website
+Project X: PointsHack
+
+
+
+
+
+Project Y: BookingHack
+
+
+
+
+
+
+(Project demo: Motivation Meme Website)
 [![Motivation Meme Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://kzmaybe.github.io/Motivation-Meme-Website/)
 [![Motivation Meme Website Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Motivation-Meme-Website)
 
