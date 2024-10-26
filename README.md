@@ -40,6 +40,7 @@ Visit the [CreditPointsPro Website](https://creditpointpros.github.io/CreditPoin
 
 ### 2. Web Design Agency Website
 [![Web Design Agency Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://kzmaybe.github.io/Web-Design-Agency-Website/)
+[![Web Design Agency Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Web-Design-Agency-Website)
 
 <!-- END Project -->
 
