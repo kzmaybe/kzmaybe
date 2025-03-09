@@ -60,6 +60,7 @@ Visit the [CreditPointsPro Website](https://creditpointpros.github.io/CreditPoin
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="PosgreSQL" width="30px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180821/isz/7f11f4df5143bf70f19f0878e0296f60.webp" />
 
 
 <!--
