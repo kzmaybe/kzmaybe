@@ -85,8 +85,7 @@ A **flight and hotel deal finder** that helps users book the cheapest travel usi
 ---
 
 ## 📊 GitHub Stats
-
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kzmaybe&show_icons=true&theme=radical)  
+<!-- ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kzmaybe&show_icons=true&theme=radical)   -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzmaybe&layout=compact&theme=radical)
 
 ---
