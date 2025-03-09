@@ -20,16 +20,16 @@ I am a passionate and dedicated hospitality professional who recently graduated 
 I am particularly interested in travel and believe that it broadens horizons and enriches lives. As a travel enthusiast, I have been learning the art of using credit card points to cover travel expenses and am eager to share my insights. I want to help others leverage the power of credit card points to make their travel dreams a reality.
 
 
-# 📁  Side Projects
+<!-- # 📁  Side Projects -->
 
-<!-- BEGIN Project -->
+<!-- BEGIN Project
 ### 1. CreditPointsPro (Website): 
  A tutorial aims to educate people on the best travel credit card offers available and how to maximize their points. My motivation is to empower others to travel more affordably and wisely by utilizing credit card rewards. (Bookeeping your deals and points from all the credit card companies.)
 
 Visit the [CreditPointsPro Website](https://creditpointpros.github.io/CreditPointsPro-Website/)
 
 ### 2. BookingHack (Website | App | Chrome Extension):
- A comprehensive booking platform designed to find and reserve the best flight and hotel deals using cash or points. This project assists users in calculating the value of their points and locating the best offers available online. My goal is to streamline the often time-consuming process of searching for deals, ensuring that all travelers, even those without points, can benefit from exceptional travel offers.
+ A comprehensive booking platform designed to find and reserve the best flight and hotel deals using cash or points. This project assists users in calculating the value of their points and locating the best offers available online. My goal is to streamline the often time-consuming process of searching for deals, ensuring that all travelers, even those without points, can benefit from exceptional travel offers. -->
 
 
 
@@ -58,12 +58,14 @@ Visit the [CreditPointsPro Website](https://creditpointpros.github.io/CreditPoin
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<!--
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
+<!--
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 -->
 <br />
 
