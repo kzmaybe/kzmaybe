@@ -1,76 +1,87 @@
 
 <!--
 **kzmaybe/kzmaybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-# 🏂   kzmaybe
-I am a passionate and dedicated hospitality professional who recently graduated with a Computer Science degree. As I transition towards a dynamic career in software engineering, I am eager to apply my problem-solving skills, creativity, and commitment to excellence in software development.
+# 🏂  Hi, I'm Kevin Y Zhang!
 
-I am particularly interested in travel and believe that it broadens horizons and enriches lives. As a travel enthusiast, I have been learning the art of using credit card points to cover travel expenses and am eager to share my insights. I want to help others leverage the power of credit card points to make their travel dreams a reality.
+I’m a **Software Engineer** with a background in **Hospitality Management** and **Computer Science**. My passion lies in **building applications that enhance people's quality of life**—whether it's optimizing travel rewards, creating efficient booking platforms, or developing AI-powered solutions.
 
+I recently graduated from **UNLV with a degree in Computer Science** and am actively seeking a **Software Engineer Internship**. I enjoy working with **full-stack web development, AI tools, and cloud technologies**, and I'm always eager to learn new frameworks and collaborate on impactful projects.
 
-<!-- # 📁  Side Projects -->
+---
 
-<!-- BEGIN Project
-### 1. CreditPointsPro (Website): 
- A tutorial aims to educate people on the best travel credit card offers available and how to maximize their points. My motivation is to empower others to travel more affordably and wisely by utilizing credit card rewards. (Bookeeping your deals and points from all the credit card companies.)
+## 🔨 Projects
+### 1️⃣ **CreditPointsPro (Full-Stack Web App)**
+A platform that helps users **maximize travel credit card rewards**, built using **JavaScript, React, and MongoDB**.
 
-Visit the [CreditPointsPro Website](https://creditpointpros.github.io/CreditPointsPro-Website/)
+🔹 **Tech Stack:** React, Node.js, Express, MongoDB, GitHub  
+🔹 **Features:** Credit card rewards calculator, API integration, authentication  
+🔹 [Live Demo](https://creditpointspro.com) | [GitHub Repo](https://github.com/kzmaybe/CreditPointsPro)
 
-### 2. BookingHack (Website | App | Chrome Extension):
- A comprehensive booking platform designed to find and reserve the best flight and hotel deals using cash or points. This project assists users in calculating the value of their points and locating the best offers available online. My goal is to streamline the often time-consuming process of searching for deals, ensuring that all travelers, even those without points, can benefit from exceptional travel offers. -->
+---
 
+### 2️⃣ **Motivation Meme Generator (Fun Web Project)**
+A simple website that generates random motivational memes.
 
+🔹 **Tech Stack:** JavaScript, HTML, CSS  
+🔹 **Features:** Random meme API, dynamic UI  
+🔹 [Live Demo](https://kzmaybe.github.io/Motivation-Meme-Website/) | [GitHub Repo](https://github.com/kzmaybe/Motivation-Meme-Website)
 
-# 📁  Web Development Projects
-### 1. Motivation Meme Website
-[![Motivation Meme Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://kzmaybe.github.io/Motivation-Meme-Website/)
-[![Motivation Meme Website Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Motivation-Meme-Website)
+---
 
-### 2. Web Design Agency Website
-[![Web Design Agency Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://kzmaybe.github.io/Web-Design-Agency-Website/)
-[![Web Design Agency Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Web-Design-Agency-Website)
+<!-- ### 3️⃣ **BookingHack (Web App & Chrome Extension)**
+A **flight and hotel deal finder** that helps users book the cheapest travel using points or cash.
 
-<!-- END Project -->
+🔹 **Tech Stack:** React, TypeScript, Firebase, API integration  
+🔹 **Features:** Travel price tracker, points-to-cash calculator, deal notifications  
+🔹 [GitHub Repo](https://github.com/kzmaybe/BookingHack)
 
-#
-
-### 🧰   Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="PosgreSQL" width="30px" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180821/isz/7f11f4df5143bf70f19f0878e0296f60.webp" />
+--- -->
 
 
-<!--
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
--->
-<br />
 
-#
+## 💻 Skills & Technologies
 
-### 💻   Linkedin
-https://www.linkedin.com/in/kevin-y-zhang-21623313b/
+### **💡 Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) -->
+
+### **🌐 Web & Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<!-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) -->
+
+### **⚙️ Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+<!-- ### **☁️ Cloud & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black) -->
+
+---
+
+## 📊 GitHub Stats
+
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kzmaybe&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzmaybe&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+🔹 **LinkedIn:** [Kevin Zhang](https://www.linkedin.com/in/kevin-y-zhang-21623313b/)  
+📧 **Email:** kzmaybe@icloud.com 
+
+I am currently seeking **Software Engineer Internship** opportunities! Let's connect and build something great together 🚀
+
