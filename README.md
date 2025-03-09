@@ -21,7 +21,18 @@ A platform that helps users **maximize travel credit card rewards**, built using
 
 ---
 
-### 2️⃣ **Motivation Meme Generator (Fun Web Project)**
+### 2️⃣ The Simon Game 🎵
+A **fun memory game** where players repeat a sequence of colors that gets longer each round.  
+Built with **JavaScript, HTML, and CSS**.
+
+🔹 **Tech Stack:** JavaScript, jQuery, HTML, CSS  
+🔹 **Features:** Interactive UI, sound effects, increasing difficulty  
+
+[![Play the Game](https://img.shields.io/badge/Live-Demo-brightgreen)](https://kzmaybe.github.io/The-Simon-Game/)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/The-Simon-Game)
+
+
+### 3️⃣ **Motivation Meme Generator (Fun Web Project)**
 A simple website that generates random motivational memes.
 
 🔹 **Tech Stack:** JavaScript, HTML, CSS  
@@ -30,7 +41,9 @@ A simple website that generates random motivational memes.
 
 ---
 
-<!-- ### 3️⃣ **BookingHack (Web App & Chrome Extension)**
+
+
+<!-- ### 4️⃣ **BookingHack (Web App & Chrome Extension)**
 A **flight and hotel deal finder** that helps users book the cheapest travel using points or cash.
 
 🔹 **Tech Stack:** React, TypeScript, Firebase, API integration  
