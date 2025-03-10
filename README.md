@@ -12,7 +12,28 @@ I recently graduated from **UNLV with a degree in Computer Science** and am acti
 ---
 
 ## 🔨 Projects
-### 1️⃣ Keeper App 📝
+
+### 1️⃣ CreditPointsPro 💳 *(Work in Progress 🚧)*  
+A **website to maximize travel credit card rewards**.  
+
+🔹 **Tech Stack:** React, Node.js  
+🔹 **Features:** Reward optimization, user dashboard, referral system  
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://creditpointpros.github.io/CreditPointsPro-Website/) 
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/CreditPointPros/CreditPointsPro-Website)  
+
+---
+
+### 2️⃣ CS 472 - 2D Roguelike Video Game 🎮  
+A **Unity-based roguelike horror game** with procedurally generated levels and dynamic combat mechanics.  
+
+🔹 **Tech Stack:** Unity, C#  
+🔹 **Features:** Spell casting, augment system, procedural generation, horror atmosphere  
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/UNLV-CS472-672/2024-S-GROUP2-2DRove) 
+
+
+### 3️⃣ Keeper App 📝
 A **React-based note-taking app** 
 
 🔹 **Tech Stack:** React, Vite, CSS, JavaScript  
@@ -22,7 +43,7 @@ A **React-based note-taking app**
 
 ---
 
-### 2️⃣ The Simon Game 🎵
+### 4️⃣ The Simon Game 🎵
 A **fun memory game** where players repeat a sequence of colors that gets longer each round.  
 Built with **JavaScript, HTML, and CSS**.
 
@@ -34,7 +55,7 @@ Built with **JavaScript, HTML, and CSS**.
 
 ---
 
-### 3️⃣ **Motivation Meme Generator (Fun Web Project)**
+### 5️⃣ **Motivation Meme Generator (Fun Web Project)**
 A simple website that generates random motivational memes.
 
 🔹 **Tech Stack:** JavaScript, HTML, CSS  
@@ -48,7 +69,7 @@ A simple website that generates random motivational memes.
 
 
 
-<!-- ### 4️⃣5️⃣ **BookingHack (Web App & Chrome Extension)**
+<!-- ###  **BookingHack (Web App & Chrome Extension)**
 A **flight and hotel deal finder** that helps users book the cheapest travel using points or cash.
 
 🔹 **Tech Stack:** React, TypeScript, Firebase, API integration  
