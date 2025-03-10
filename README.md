@@ -12,12 +12,13 @@ I recently graduated from **UNLV with a degree in Computer Science** and am acti
 ---
 
 ## 🔨 Projects
-### 1️⃣ **CreditPointsPro (Full-Stack Web App)**
-A platform that helps users **maximize travel credit card rewards**, built using **JavaScript, React, and MongoDB**.
+### 1️⃣ Keeper App 📝
+A **React-based note-taking app** 
 
-🔹 **Tech Stack:** React, Node.js, Express, MongoDB, GitHub  
-🔹 **Features:** Credit card rewards calculator, API integration, authentication  
-🔹 [Live Demo](https://creditpointspro.com) | [GitHub Repo](https://github.com/kzmaybe/CreditPointsPro)
+🔹 **Tech Stack:** React, Vite, CSS, JavaScript  
+🔹 **Features:** Add & delete notes, minimal UI, responsive design  
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Keeper-App)
 
 ---
 
@@ -43,7 +44,7 @@ A simple website that generates random motivational memes.
 
 
 
-<!-- ### 4️⃣ **BookingHack (Web App & Chrome Extension)**
+<!-- ### 4️⃣5️⃣ **BookingHack (Web App & Chrome Extension)**
 A **flight and hotel deal finder** that helps users book the cheapest travel using points or cash.
 
 🔹 **Tech Stack:** React, TypeScript, Firebase, API integration  
