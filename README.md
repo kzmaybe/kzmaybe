@@ -32,6 +32,7 @@ A **Unity-based roguelike horror game** with procedurally generated levels and d
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/UNLV-CS472-672/2024-S-GROUP2-2DRove) 
 
+---
 
 ### 3️⃣ Keeper App 📝
 A **React-based note-taking app** 
@@ -122,4 +123,3 @@ A **flight and hotel deal finder** that helps users book the cheapest travel usi
 📧 **Email:** kzmaybe@icloud.com 
 
 I am currently seeking **Software Engineer Internship** opportunities! Let's connect and build something great together 🚀
-
