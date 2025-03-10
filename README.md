@@ -39,7 +39,8 @@ A simple website that generates random motivational memes.
 🔹 **Tech Stack:** JavaScript, HTML, CSS  
 🔹 **Features:** Random meme API, dynamic UI  
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://kzmaybe.github.io/Motivation-Meme-Website/) 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]
+(https://kzmaybe.github.io/Motivation-Meme-Website/) 
 [![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Motivation-Meme-Website)
 
 ---
