@@ -38,7 +38,8 @@ A **Unity-based roguelike horror game** with procedurally generated levels and d
 A **React-based note-taking app** 
 
 🔹 **Tech Stack:** React, Vite, CSS, JavaScript  
-🔹 **Features:** Add & delete notes, minimal UI, responsive design  
+🔹 **Features:** Add & delete notes, minimal UI, responsive design 
+ 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://kzmaybe.github.io/Keeper-App/)
 [![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/Keeper-App)
 
