@@ -19,8 +19,8 @@ A **website to maximize travel credit card rewards**.
 🔹 **Tech Stack:** React, Node.js  
 🔹 **Features:** Reward optimization, user dashboard, referral system  
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://creditpointpros.github.io/CreditPointsPro-Website/) 
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/CreditPointPros/CreditPointsPro-Website)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]( https://kzmaybe.github.io/creditPointsPro/) 
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/creditPointsPro?tab=readme-ov-file)  
 
 ---
 
