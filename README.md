@@ -7,13 +7,22 @@
 
 I’m a **Software Engineer** with a background in **Hospitality Management** and **Computer Science**. My passion lies in **building applications that enhance people's quality of life**—whether it's optimizing travel rewards, creating efficient booking platforms, or developing AI-powered solutions.
 
-I recently graduated from **UNLV with a degree in Computer Science** and am actively seeking a **Software Engineer Internship**. I enjoy working with **full-stack web development, AI tools, and cloud technologies**, and I'm always eager to learn new frameworks and collaborate on impactful projects.
+I recently graduated from **UNLV with a degree in Computer Science** and am actively seeking a **Software Engineer position**. I enjoy working with **full-stack web development, AI tools, and cloud technologies**, and I'm always eager to learn new frameworks and collaborate on impactful projects.
 
 ---
 
 ## 🔨 Projects
 
-### 1️⃣ CreditPointsPro 💳 *(Work in Progress 🚧)*  
+### 1️⃣ PetBnB 🐾 *(Full-Stack Booking Platform)*  
+An **Airbnb-style platform for pet owners and sitters**.  
+
+🔹 **Tech Stack:** React, Node.js, Express, PostgreSQL, Docker, AWS  
+🔹 **Features:** JWT authentication, CRUD listings & bookings, REST APIs, containerized deployment  
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/petbnb)  
+---
+
+### 2️⃣ CreditPointsPro 💳 *(Work in Progress 🚧)*  
 A **website to maximize travel credit card rewards**.  
 
 🔹 **Tech Stack:** React, Node.js  
@@ -21,16 +30,6 @@ A **website to maximize travel credit card rewards**.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]( https://kzmaybe.github.io/creditPointsPro/) 
 [![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/kzmaybe/creditPointsPro?tab=readme-ov-file)  
-
----
-
-### 2️⃣ CS 472 - 2D Roguelike Video Game 🎮  
-A **Unity-based roguelike horror game** with procedurally generated levels and dynamic combat mechanics.  
-
-🔹 **Tech Stack:** Unity, C#  
-🔹 **Features:** Spell casting, augment system, procedural generation, horror atmosphere  
-
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/UNLV-CS472-672/2024-S-GROUP2-2DRove) 
 
 ---
 
